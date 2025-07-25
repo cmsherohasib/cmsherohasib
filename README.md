@@ -72,4 +72,18 @@ My goal is simple: **deliver high-quality, user-friendly websites** tailored to 
 
 ---
 
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cmsherohasib&show_icons=true&theme=tokyonight" alt="Hasib Hasan's GitHub Stats" />
+</p>
+
+## 🔥 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmsherohasib&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</p>
+
+
 Let’s build something great together! 💼✨
