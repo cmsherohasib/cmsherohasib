@@ -79,7 +79,7 @@ My goal is simple: **deliver high-quality, user-friendly websites** tailored to 
     <td>
       <h3>❄ Most Used Languages On GitHub</h3>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?usernamecmsherohasib&layout=compact&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmsherohasib&layout=compact&theme=tokyonight" />
       </a>
     </td>
     <td>
@@ -88,10 +88,6 @@ My goal is simple: **deliver high-quality, user-friendly websites** tailored to 
     </td>
   </tr>
 </table>
-
-
-
-
 
 
 Let’s build something great together! 💼✨
