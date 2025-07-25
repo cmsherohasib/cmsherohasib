@@ -78,18 +78,23 @@ My goal is simple: **deliver high-quality, user-friendly websites** tailored to 
   <tr>
     <td>
 
-      ### ❄️ Most Used Languages On GitHub  
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmsherohasib&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
+      <p align="center"><b>❄️ Most Used Languages On GitHub</b></p>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmsherohasib&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
+      </p>
 
     </td>
     <td>
 
-      ### ⭐ My GitHub Stats  
-      <img src="https://github-readme-stats.vercel.app/api?username=cmsherohasib&show_icons=true&theme=tokyonight" alt="Hasib Hasan's GitHub Stats"/>
+      <p align="center"><b>⭐ My GitHub Stats</b></p>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=cmsherohasib&show_icons=true&theme=tokyonight" alt="Hasib Hasan's GitHub Stats"/>
+      </p>
 
     </td>
   </tr>
 </table>
+
 
 
 
